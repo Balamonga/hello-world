@@ -1,4 +1,5 @@
 # hello-world
 Getting started
 
-Hello, this is the first beginning use of GitHub
+Well this is the second use of GitHub
+
